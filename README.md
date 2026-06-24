@@ -21,12 +21,14 @@ This guide explores Python data structures through hospital management analogies
 1. Clone the repository:
 ```bash
 git clone https://github.com/chankjen/Python_Data_Structures.git
-cd hospital-ds
+cd IdeaProjects
+cd PYTHON_DATA_STRUCTURES
+
 ```
 
 2. Run the demo simulation:
 ```bash
-python hospital_system.py
+python3 Hospital_().py
 ```
 
 3. Sample test credentials:
