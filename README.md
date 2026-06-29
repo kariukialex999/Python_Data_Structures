@@ -28,6 +28,9 @@ cd PYTHON_DATA_STRUCTURES
 
 2. Run the demo simulation:
 ```bash
+```This will help you run the various data structure.
+
+
 python3 Hospital_().py
 ```
 
